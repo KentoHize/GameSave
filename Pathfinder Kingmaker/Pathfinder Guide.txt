@@ -1,0 +1,259 @@
+Troll Wildness 謎題未解
+
+英雄
+Lamyth 
+10 16 14 10 12 19
+10 16 14 12  7 20
+        
+傭兵
+Ryavelana (Elf Saint Sword) Reserved
+Garhar (Human Wizard) Wise
+Dalolug (Dwarf Druid 近戰) Pious
+Tifvae (Half-Elf Druid 施法) Cunning
+Ryria (Elf Ranger 弓箭) Confident
+Elianna (Aasimar Paladin) Brave
+Leslie (Human Fighter) Madman
+Adonis (Human Aldori Defender) Confident
+Rina (Human Herald Caller) Carefree
+//Nathalie (Bard)
+//Selene (Human Sorcerer)
+
+寶箱
+Abandoned Hut X
+Nettle Crossing X -> O
+
+Bridge over the Gudrin River
+
+
+
+攻略
+-----------------------------------
+起始時間 4710 4/16
+
+技能分配
+主角
+Persuasion
+(Use Magic Device)
+
+牧師
+Lore(Regligion)
+
+遊俠/德魯伊
+Lore(Nature)
+Perception
+
+Amiri
+Athletic
+Perception
+
+Linzi
+Mobility
+Stealth
+Trickery
+Knowledge(Arcana)
+Knowledge(World)
+
+
+Endless Plain 
+小Boss 3~5級
+Manticore
+
+Fangberry Cave
+狩獵場 2~3級
+後繼 3~5級
+
+Two-Rivers Field(東邊)
+狩獵場 2~3級
+ Boggard
+ Wolf
+ Trap DC 17 
+
+Old Mesa 
+小Boss Great Werewolf 10/Sliver
+
+Three-Pine Islet
+遊蕩怪 Tatzlwyrm 3~4級 Trap
+
+Overgrown Pool
+Dyrad Melianse 綁架事件 Direwolf
+
+Lone House
+遊蕩怪 4~5級 劇情點之一
+Bandit
+
+劇情後
+狩獵場 6~8級
+Troll
+Branded Troll
+
+Waterlogged Lowland
+遊記 5~7級
+
+Nettle's Crossing
+劇情 DC 27寶箱
+
+Abandoned Hut
+遊蕩怪 2~4級 劇情
+Ferocious Wolf
+寶箱 DC 21
+
+Tranquil River Band
+狩獵場 6~8級
+ Boggard Savage
+ Boggard Scarred One
+ Boggard Prophet
+ Monitor Lizzard
+Bridge over the Gudrin River
+狩獵場 5~6級 劇情點
+ Tatzlwyrm
+ Alpha Wolf
+ Worg
+ Ferocious Wolf
+ Hodag
+ Ferocious Hodag
+ Bear
+ 隱藏地區
+
+Ruined Watch Tower
+劇情 - Troll Branded Troll
+遊蕩怪 4~5級
+ Bandit
+ Bandit Alchemist
+ Ferocious Wolf
+ Troll
+ Kobold Boomsayer
+ Great Giant Spider
+
+Trail In The Hills
+小Boss 5~7級
+Mature Leopard 
+
+Kobold Camp
+劇情 - 善良無戰鬥
+
+Kobold Trail
+遊記 Mobility 15 Rope needed
+善良 500 gp
+
+Troll Cleaning
+遊記 Lore(Nature) 20
+
+Glade In The Wildness
+遊蕩怪 5~7級 
+洞穴的戰鬥稍難
+Wolf From Silent's Pack
+Silent, the Wold of Alpha
+
+Old Oak
+小Boss 5~7級
+Man-Eater Troll
+Boggard
+
+Tenebrous Depth
+劇情
+
+Tuskgutter's Lair
+劇情 3~4級
+單挑6級以上
+Tuskgutter
+
+Oak-That-Strayed
+小Boss 4~7級
+Insane Dryad
+
+Temple Of The Elk
+劇情 4~6級 早拿Tritisan路線，3級可以去嘗試(困難)
+
+Swamp Witch's Hut
+狩獵場 劇情 6~8級
+右上左上，可隔空解決
+
+Monster Den
+小Boss
+Ancient Wyven
+
+Secluded Lodge
+劇情 無戰鬥
+
+Mud Bowl
+小Boss 6~9級
+Tendriculos
+
+Empty Skull Rock
+狩獵場 5-7級
+Ferocious Trollhound 
+
+Lizardfolk Village
+劇情 遊蕩怪 5~7級
+Giant Poisonous Frog
+Great Monitor Lizard
+VenomHodag
+
+Wolf Lair
+狩獵場 5~7級
+Wolf
+Alpha Wolf
+
+Verdant Chamber
+遊蕩怪 4~6級 劇情
+Ferocious Wolf
+
+Lonlely Barrow
+劇情 5~7級 技能考驗
+後續關卡 8~10級 (下次繼續)
+
+Candlemere Tower
+劇情 6級~8級，需要抗電
+
+Bald Stone
+小Boss 7~9級
+Torpor, the Great Nightmare
+
+Arbar Rock
+小Boss 4~7級
+Huge Earth Elemental
+Medium Earth Elemental
+
+Hilltop Trail
+
+DweomerCat
+小Boss 5~7級
+往後
+DwomerLion 9~11級
+Brace of Armor + 5
+
+Lake Silverstep Village
+狩獵場 7~10級 劇情
+Tatzlwyrm
+Greater Tatzlwyrm
+Dire Boar
+Greater Dire Boar
+Nixie Prankster
+Nereid
+Worg
+Greater Worg
+Ferocious Hydra
+Nixie Trickster
+
+Silverstep Grove
+狩獵場 7~9級 劇情
+Alpha Wolf
+Alpha Worg
+Ivor
+
+Ancient Mine
+小Boss 7~9級
+Ancient Wyvern
+
+Ratnook Hill
+小Boss 8~10級 陷阱
+Wererat Rogue 8
+Wererat Alchemist 8
+Wererat Fighter 2
+
+Hunting Ground
+狩獵場 7~9級 劇情
+
+多種怪物　熊　狼　九頭蛇等
+
+建議
