@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveSlotData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SaveSlotNum>0</SaveSlotNum>
+  <SaveLanguage>4</SaveLanguage>
+  <ScreenMode>0</ScreenMode>
+  <Resolution>2</Resolution>
+  <VSync>true</VSync>
+  <DepthofField>false</DepthofField>
+  <Antialiasing>false</Antialiasing>
+  <TextureQuality>0</TextureQuality>
+  <Shadow>false</Shadow>
+  <LowSpecMode>false</LowSpecMode>
+  <ColorBlindness>false</ColorBlindness>
+  <SoundMainVolume>90</SoundMainVolume>
+  <SoundEffectVolume>70</SoundEffectVolume>
+  <SoundBGMVolume>100</SoundBGMVolume>
+  <ChangeLastBossBGM>false</ChangeLastBossBGM>
+  <GamepadOn>false</GamepadOn>
+</SaveSlotData>
