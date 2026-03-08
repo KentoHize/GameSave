@@ -1,0 +1,31 @@
+{
+  "appVersion": "1.4.5",
+  "language": 4,
+  "platform": 2,
+  "masterSoundVolume": 1.0,
+  "effectSoundVolume": 0.5,
+  "musicSoundVolume": 0.5,
+  "vibration": true,
+  "tutorial": true,
+  "textSize": 60,
+  "textSpeed": 1,
+  "screenMode": 0,
+  "difficulty": 3,
+  "resolution": {
+    "width": 1920,
+    "height": 1080,
+    "refreshRate": {
+      "numerator": 165004,
+      "denominator": 1000,
+      "value": 165.004
+    }
+  },
+  "graphicData": {
+    "isPostprocessingActive": true,
+    "isVsyncActive": true,
+    "isRadialBlurActive": true,
+    "isBloomActive": true,
+    "isChromaFilterActive": true,
+    "isCameraShakeActive": true
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "consentToCollectInformation": false,
+  "bunkerTutorialEndInformation": true,
+  "isDifficultySelected": true,
+  "isFirstPlay": false,
+  "isFirstLockPickPlay": true,
+  "isLocaleSet": false,
+  "dlcRedirectIndex": 0,
+  "currentCountry": 0,
+  "tutorialData": {
+    "isTutorialPlayed": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "unlockContentsAlramData": [
+    {
+      "unlockedContentsType": 1,
+      "productID": 6,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 2,
+      "productID": 13,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 0,
+      "productID": 0,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 12,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 13,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 7,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 8,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 14,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 16,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 11,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 9,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 15,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 10,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 19,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 20,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 17,
+      "currnetAlramStatus": 1
+    },
+    {
+      "unlockedContentsType": 1,
+      "productID": 18,
+      "currnetAlramStatus": 1
+    }
+  ]
+}
