@@ -1,0 +1,1628 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/SQUAD XXX Slut Hunt 🚨/SQUAD XXX Slut Hunt_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/SQUAD XXX Slut Hunt 🚨/MonoBleedingEdge/etc'
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.24f1 (11fa355cd605)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/SQUAD XXX Slut Hunt 🚨/SQUAD XXX Slut Hunt_Data/UnitySubsystems
+kGfxThreadingModeSplitJobs is not supported on Direct3D 11. Reverting to kGfxThreadingModeClientWorkerJobs instead.
+GfxDevice: creating device client; kGfxThreadingModeClientWorkerJobs
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Ti Laptop GPU (ID=0x25e0)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   32.0.15.5599
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  7.695 seconds
+- Finished resetting the current domain, in  0.005 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.971200 ms
+Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+[LeaderboardsManager] Steam API init SUCCESS!
+try to send first_launch: 1795191404
+[LeaderboardsManager] Searching for leaderboard 'first_launch'...
+RenderGraph is now enabled.
+[LeaderboardsManager] Found leaderboard 'first_launch' (ID=18136133).
+[LeaderboardsManager] DownloadLeaderboardEntriesForUsers success. Leaderboard entry count: 1
+[LeaderboardsManager] The first_launch score is already set.
+Color primaries 0 is unknown or unsupported by WindowsMediaFoundation. Falling back to default may result in color shift. C:/Program Files (x86)/Steam/steamapps/common/SQUAD XXX Slut Hunt 🚨/SQUAD XXX Slut Hunt_Data/resources.resource
+RemoveDeadmenFromSquad: no dead operatives
+free slots: 0
+free slots: 0
+Ach: taking_everyone
+RemoveDeadmenFromSquad: no dead operatives
+mission with choice
+Ach: flawless
+Ach: piece_of_cake
+Ach: flawless
+Ach: piece_of_cake
+Ach: incident_resolved
+Ach: choice_made
+Ach: flawless
+Ach: piece_of_cake
+Ach: flawless
+Ach: piece_of_cake
+mission with choice
+mission with choice
+Ach: incident_resolved
+Ach: no_more_games
+Ach: piece_of_cake
+Ach: flawless
+Ach: no_more_games
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+mission with choice
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+Ach: data_acquired
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+RemoveDeadmenFromSquad: no dead operatives
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: taking_everyone
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: cyber_priestess
+autosave on new day
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: lamia
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 4096 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 4096 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 4096 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 3072 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+free slots: 1
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+free slots: 1
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: new_recruit
+Ach: new_recruit
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: new_recruit
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 1
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 1
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 1
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+set null data. shopOper_1
+set null data. shopOper_2
+set null data. shopOper_3
+Ach: taking_everyone
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: in_the_ranks
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: in_the_ranks
+Ach: in_the_ranks
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+set null data. shopOper_1
+set null data. shopOper_2
+set null data. shopOper_3
+Ach: taking_everyone
+Ach: fresh_blood
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: new_recruit
+Ach: new_recruit
+Ach: new_recruit
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: in_the_ranks
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: in_the_ranks
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: research_complete
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+RemoveDeadmenFromSquad: no dead operatives
+Ach: piece_of_cake
+Ach: piece_of_cake
+mission with choice
+Ach: choice_made
+no available slots in squad i guess...
+Ach: unexpected_ally
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: piece_of_cake
+mission with choice
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: no_more_games
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: data_acquired
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+mission with choice
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: no_more_games
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: reinforcements
+Ach: incident_resolved
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: on_the_edge
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+RemoveDeadmenFromSquad: no dead operatives
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: taking_everyone
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 1
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: porcelain_captive
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+autosave on new day
+RemoveDeadmenFromSquad: no dead operatives
+Ach: research_complete
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: new_recruit
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: new_recruit
+Ach: new_recruit
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: in_the_ranks
+Ach: in_the_ranks
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: in_the_ranks
+Ach: in_the_ranks
+Ach: in_the_ranks
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 1
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 1
+free slots: 0
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+mission with choice
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: choice_made
+no available slots in squad i guess...
+Ach: unexpected_ally
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+mission with choice
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: no_more_games
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: no_more_games
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+mission with choice
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: on_the_edge
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: flawless
+Ach: piece_of_cake
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: no_more_games
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+RemoveDeadmenFromSquad: no dead operatives
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+free slots: 0
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: taking_everyone
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+autosave on new day
+AudioSampleProvider buffer overflow. 192 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 4096 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 4096 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 3072 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 2048 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+RemoveDeadmenFromSquad: no dead operatives
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+Ach: research_complete
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+AudioSampleProvider buffer overflow. 1024 sample frames discarded.
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+RemoveDeadmenFromSquad: no dead operatives
+RemoveDeadmenFromSquad: no dead operatives
+WindowsVideoMedia error 0x8007000e while reading C:/Program Files (x86)/Steam/steamapps/common/SQUAD XXX Slut Hunt 🚨/SQUAD XXX Slut Hunt_Data/resources.resource
+
+Context: IMFSourceReader::WaitForSample in ReadSample
+Error details: <Empty>
+Track types:
+   Unreadable Track
+Received an error while playing 'Lab_observation_60fps': VideoPlayer cannot play clip : Assets/_Art/Locations/Lab/Lab_observation_60fps.m4v
+
+Unexpected error code (10).
+Ach: research_complete
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+daaamn such a bad shot
+RemoveDeadmenFromSquad: no dead operatives
+[LeaderboardsManager] Steam API shutdown.
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
